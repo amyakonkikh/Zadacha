@@ -1,3 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.util.Scanner;
 
 public class Sadsaf {
@@ -20,7 +75,7 @@ public class Sadsaf {
                                         '0' : '-') : '+') : '/') : '*');
         switch (r) {
             case '*':
-                System.out.println(chisla[0] * chisla[1]);1
+                System.out.println(chisla[0] * chisla[1]);
                 break;
             case '/':
                 System.out.println(chisla[0] / chisla[1]);
@@ -35,24 +90,3 @@ public class Sadsaf {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
